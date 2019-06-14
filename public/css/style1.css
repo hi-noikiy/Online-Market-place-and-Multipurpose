@@ -1,0 +1,114 @@
+
+
+
+.w3-card-4{
+
+  width: 82%;
+  box-shadow: #a7ff63 !important;
+}
+#star{
+	color: #ffa719;
+}
+
+#cop{
+
+	margin-top: -40px;
+}
+
+
+.comment{
+
+	display: inline-block;
+	font-size: 13px;
+}
+
+
+.card{
+	font-size: 13px;
+}
+
+.select{
+	font-size: 17px;
+	margin-left: 564px;
+}
+.btn-group button {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 24px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: center; /* Float the buttons side by side */
+  margin:14px;
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+
+.head{
+	color: #877c7c;
+
+}
+
+
+.comments{
+
+color:#5e915e;
+
+}
+
+.small{
+	font-size: 10px;
+	color: #c6baba;
+}
+
+
+
+
+
+.img{
+
+	width: 28px;
+    height: 28px;
+    border-radius: 50px;
+    display: inline-block;
+    vertical-align: -9px;
+    margin-right: 2px;
+    background: #f5f6f7;
+}
+.im1{
+	margin-bottom: 20px;
+}
+
+    
+#spans{
+	background-color: #fff;
+	border:1px solid #bdc6b6;
+
+border-radius: 12px;
+color: black;
+}
+
+#spans:hover{
+  background-color:#a7ff63;
+}
+
+.card:hover{
+	color:green;
+	transition: 1s;
+}
+
+
+

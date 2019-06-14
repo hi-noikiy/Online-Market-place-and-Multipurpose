@@ -1,0 +1,265 @@
+
+@media screen and (max-width: 1000px){
+
+
+.head-type{
+  font-size: 17px;
+}
+
+ #bar{
+  font-size: 15px;
+ }
+
+
+.w3-card-4{
+
+  width: 90%;
+}
+#star{
+  color: #ffa719;
+  font-size: 9px;
+}
+
+#cop{
+
+  margin-top: -30px;
+}
+
+
+.cmnt-header{
+  font-size: 13px;
+}
+
+.comments{
+
+  font-size: 13px;
+}
+
+
+.card{
+
+  font-size: 10px;
+}
+
+#table-el{
+  font-size: 11px;
+}
+
+.select{
+  font-size: 12px;
+  margin-left: 29px;
+}
+.btn-group button {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green;
+  font-size: 10px; /* Green border */
+  color: white; /* White text */
+  padding: 3px 10px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: center; /* Float the buttons side by side */
+  margin-left: 19px;
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+
+.head{
+  color: #877c7c;
+  font-size: 14px;
+
+}
+
+.comments{
+
+color:#5e915e;
+
+}
+
+.small{
+  font-size: 9px;
+  color: #c6baba;
+}
+
+
+
+
+
+.img{
+
+  width: 14px;
+    height: 14px;
+    border-radius: 50px;
+    display: inline-block;
+    vertical-align: -9px;
+    margin-right: 2px;
+    background: #f5f6f7;
+}
+.im1{
+  margin-bottom: 20px;
+}
+
+    
+.W3-tag{
+  background-color: #fff;
+  border:1px solid #d8f3cb;
+
+
+border-radius: 12px;
+color: black;
+
+
+}
+
+.card:hover{
+  color:green;
+  transition: 1s;
+}
+}
+
+
+
+
+
+
+@media screen and (max-width: 640px){
+
+
+.head-type{
+  font-size: 16px;
+}
+
+ #bar{
+  font-size: 12px;
+ }
+
+
+.w3-card-4{
+
+	width: 100%;
+}
+#star{
+	color: #ffa719;
+  font-size: 12px;
+}
+
+#cop{
+
+	margin-top: -30px;
+}
+
+
+.cmnt-header{
+  font-size: 12px;
+}
+
+.comments{
+
+	font-size: 13px;
+}
+
+
+.card{
+
+	font-size: 10px;
+}
+
+#table-el{
+  font-size: 11px;
+}
+
+.select{
+	font-size: 10px;
+	margin-left: 13px;
+}
+.btn-group button {
+  background-color: #4CAF50; /* Green background */
+  border: 1px solid green;
+  font-size: 12px; /* Green border */
+  color: white; /* White text */
+  padding: 3px 10px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: center; /* Float the buttons side by side */
+  margin-left:23px;
+}
+
+/* Clear floats (clearfix hack) */
+.btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /* Prevent double borders */
+}
+
+/* Add a background color on hover */
+.btn-group button:hover {
+  background-color: #3e8e41;
+}
+
+.head{
+	color: #877c7c;
+  font-size: 14px;
+
+}
+
+.comments{
+
+color:#5e915e;
+
+}
+
+.small{
+	font-size: 9px;
+	color: #c6baba;
+}
+
+
+
+
+
+.img{
+
+	width: 14px;
+    height: 14px;
+    border-radius: 50px;
+    display: inline-block;
+    vertical-align: -9px;
+    margin-right: 2px;
+    background: #f5f6f7;
+}
+.im1{
+  margin-bottom: 20px;
+}
+
+    
+.W3-tag{
+	background-color: #fff;
+	border:1px solid #bdc6b6;
+
+
+border-radius: 12px;
+color: black;
+
+
+}
+
+.card:hover{
+	color:green;
+	transition: 1s;
+}
+}
